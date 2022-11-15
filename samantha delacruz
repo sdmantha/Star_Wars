@@ -1,0 +1,139 @@
+star_wars git:(master) ✗ history
+    1  echo $SHELL
+    2  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    3  echo $SHELL
+    4  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    5  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    6  code .
+    7  ```bash\n/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n```
+    8  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    9  brew doctor
+   10  brew doctor
+   11  brew doctor
+   12  brew update
+   13  xcode-select --install
+   14  brew install git
+   15  git config --global user.name "Username"
+   16  git config --global user.name "sdmantha"
+   17  git config --global user.email "sdangelcake@gmail.com"
+   18  git config --global init.defaultBranch main
+   19  git config --global core.editor "code --wait"
+   20  git config --global pull.rebase false
+   21  touch ~/.gitignore_global
+   22  git config --global core.excludesfile ~/.gitignore_global
+   23  code ~/.gitignore_global
+   24  brew install gh
+   25  gh auth login
+   26  brew install node
+   27  node -v
+   28  npm -v
+   29  npm i -g nodemon
+   30  cd sei/code-alongs/terminal
+   31  code .
+   32  git init
+   33  git remote add origin https://github.com/sdmantha/terminal-notes
+   34  git remote -v
+   35  git clone https://github.com/sdmantha/Star_Wars
+   36  code.
+   37  ls
+   38  ls -a
+   39  git status
+   40  mkdir star_wars
+   41  mkdir star_wars/rebellion star_wars/rebellion
+   42  mkdir star_wars/empire
+   43  touch star_wars/empire/darth_vader.txt
+   44  cd star_wars
+   45  code. 
+   46  code .
+   47* echo "...heavy breathing..." >> darth_vadar.txt
+   48* touch empire/emperor_palpatine.txt
+   49* mkdir empire/death_star
+   50* v darth_vader/*.txt death_star
+   51* mv darth_vader/* death_star
+   52* mv darth_vader/*.txt death_star
+   53* mv darth_vader.txt/death_star
+   54* mv darth_vader.txt star_wars/empire/death_star
+   55* echo "...heavy breathing..." >> darth_vadar.txt
+   56* echo "...heavy breathing..." >> darth_vader.txt
+   57* touch star_wars/empire/darth_vader.txt
+   58* mkdir star_wars
+   59* mkdir star_wars/empire star_wars/rebellion
+   60* touch star_wars/empire/darth_vader.txt
+   61* echo "...heavy breathing..." >> darth_vader.txt
+   62* echo "...heavy breathing..." >> darth_vader.txt/empire/star_wars
+   63* echo 
+   64* echo "...heavy breathing..." >> darth_vader.txt
+   65* touch star_wars/empire/emperor_palpatine.txt
+   66* mkdir star_wars/empire/death_star
+   67* mv darth_vader.txt star_wars/empire/death_star
+   68* touch princess_leia.txt rebellion echo "Help me, Obi-Wan…You’re my only hope." >> princess_leia.txt
+   69* rm echo
+   70* touch princess_leia.txt/rebellion/star_wars 
+   71* touch star_wars/rebellion/princess_leia.txt
+   72* echo "Help me, Obi-Wan…You’re my only hope." >> princess_leia.txt
+   73* echo "Help me, Obi-Wan…You’re my only hope." >> star_wars/rebellion/princess_leia.txt
+   74* touch star_wars/rebellion/obi_wan.txt
+   75* ouch star_wars/rebellion/luke_skywalker.txt
+   76* touch star_wars/rebellion/luke_skywalker.txt
+   77* mkdir star_wars/rebellion/millenium_falcon
+   78* touch millenium_falcon/han_solo.txt millenium_falcon/chewbacca.txt
+   79* touch han_solo.txt/millenium_falcon chewbacca.txt/millenium_falcon
+   80* touch star_wars/millenium_falcon/han_solo.txt star_wars/millenium_falcon/chewbacca.txt
+   81* ouch han_solo.txt/millenium_falcon/star_wars
+   82* touch han_solo.txt/millenium_falcon/star_wars
+   83* touch millenium_falcon/han_solo.txt
+   84* touch han_solo.txt/millenium_falcon
+   85* touch han_solo.txt
+   86* millenium_falcon
+   87* touch han_solo.txt/millenium_falcon
+   88* touch han_solo.txt/millenium_falcon/star_wars
+   89* touch han_solo.txt millenium_falcon
+   90* touch han_solo.txt/millenium_falcon
+   91* touch han_solo.txt/millenium_falcon/rebellion/star_wars
+   92* touch star_wars/rebellion/millenium_falcon/han_solo.txt
+   93* touch star_wars/rebellion/millenium_falcon/han_solo.txt star_wars/rebellion/millenium_falcon/chewbacca.txt
+   94* mv rebellion/*txt millenium_falcon
+   95* mv rebellion/*.txt millenium_falcon
+   96* mv *.txt millenium_falcon
+   97* mv *.txt star_wars/rebellion/millenium_falcon
+   98* mv /*.txt star_wars/rebellion/millenium_falcon
+   99* mv luke_skywalker obi_wan princess_leia/*.txt star_wars/rebellion/millenium_falcon\n
+  100* mv luke_skywalker/*.txt millenium_falcon
+  101* mv luke_skywalker.txt millenium_falcon
+  102* mv luke_skywalker.txt/millenium_falcon
+  103* mv rebellion/*.txt millenium_falcon
+  104* mv luke_skywalker/*.txt millenium_falcon
+  105* mv luke_skywalker.txt millenium_falcon\n
+  106* mv rebellion/*.txt millenium_falcon
+  107* mv rebellion/*.txt star_wars/rebellion/millenium_falcon
+  108* mv luke_skywalker.txt star_wars/rebellion/millenium_falcon
+  109* luke_skywalker.txt obi_wan.txt princess_leia.txt rebellion/millenium_falcon
+  110* cd empire
+  111* ls
+  112* cd star_wars
+  113* mv luke_skywalker.txt obi_wan.txt princess_leia.txt rebellion/millenium_falcon
+  114* mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  115* mv luke_skywalker.txt obi_wan.txt princess_leia.txt ~millenium_falcon
+  116* mv millenium_falcon ~ death_star 
+  117* mv rebellion/*.txt rebellion/millenium_falcon
+  118* mv rebellion/millenium_falcon empire/death_star
+  119* mv empire/death_star/millenium_falcon/*.txt empire/deathstar 
+  120* mv empire/death_star/millenium_falcon/*.txt empire/death_star 
+  121* cd empire
+  122* cd death_star
+  123* rm obi_wan.txt
+  124* mv chewbacca.txt millenium_falcon && mv han_solo.txt millenium_falcon && mv luke_skywalker.txt millenium_falcon && mv princess_leia.txt millenium_falcon
+  125* mv millenium_falcon rebellion
+  126* mv darth_vader empire
+  127* mv darth_vader.txt empire
+  128* cd ..
+  129* mv empire/death_star/rebellion mv rebellion
+  130* cd rebellion
+  131* mv rebellion millenium_falcon
+  132* cd ..
+  133* mv empire/death_star/darth_vader.txt empire
+  134* cd empire
+  135* rm -r death_star
+  136  git add .
+  137  git commit -m "that too longer than expected"
+  138  git push origin master
